@@ -1,4 +1,4 @@
-import {Route, Routes, ScrollRestoration} from "react-router-dom";
+import {Route, Routes} from "react-router-dom";
 import {MovieDetail, MovieList, MovieSearch, PageNotFound} from "../pages"
 import React from "react";
 
